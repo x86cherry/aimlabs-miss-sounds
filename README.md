@@ -18,7 +18,7 @@ Anecdotally, I noticed myself that I don't recognize bad habits due to this lack
 ## Installation
 
 1. Get the [interception driver](https://github.com/oblitum/Interception) to detect mouse clicks
-2. [Get and run the application](/releases)
+2. [Download](https://github.com/x86cherry/aimlabs-miss-sounds/releases) and run the application
 3. Click dots (or miss them :P)
 
 ### Considerations
